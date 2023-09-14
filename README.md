@@ -29,6 +29,9 @@
   </table>
 </div>
 
+## Orientador:
+- <a href="https://www.linkedin.com/in/fabiana-martins-de-oliveira-8993b0b2/">Fabiana Martins de Oliveira</a>
+
 ## 📝 Descrição
 
 <div align="center">
